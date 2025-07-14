@@ -97,7 +97,6 @@ Extrude {0, 0, 1} {
   Surface{4}; Surface{3}; Curve{1}; Surface{1}; Surface{2}; Surface{5}; Curve{6}; Surface{6}; Layers{1}; Recombine;
 }
 
-
 //+
 Physical Surface("inlet") = {100, 78};
 //+
