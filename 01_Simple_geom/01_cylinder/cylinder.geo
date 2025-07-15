@@ -66,3 +66,7 @@ Surface(5) = {5};
 Curve Loop(6) = {12, 8, -9, -4};
 //+
 Surface(6) = {6};
+//+
+Surface Loop(1) = {3, 6, 5, 4, 2, 1};
+//+
+Volume(1) = {1};
