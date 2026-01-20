@@ -27,9 +27,5 @@ Save "t1.msh";
 Save "t1.unv"
 
 //Controlling the gmsh version
-<<<<<<< HEAD
 Mesh.MshFileVersion = '4.15';
-=======
-//Mesh.MshFileVersion = '4.15';
->>>>>>> 64060e7ed82b6682465b22fa3069d11decbf9993
 
