@@ -24,7 +24,7 @@ Save "t1.msh";
 //Additional options
 
 //Saving in the .unv MeshFormat
-Save "t1.unv"
+Save "t1.unv";
 
 //Controlling the gmsh version
 Mesh.MshFileVersion = '4.15';
